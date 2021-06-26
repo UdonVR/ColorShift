@@ -11,3 +11,17 @@
 </p>
 
 ---------------------
+
+#### The latest VRChat SDK and UdonSharp versions are required.
+
+[UdonSharp] https://github.com/MerlinVR/UdonSharp/releases/
+
+[VRC SDK] https://vrchat.com/home/download
+
+### Current Features:
+- Can shift to an array of Colors
+- Can shift through the array in order or randomly
+   - This can be changed during runtime by calling ToggleRandom
+- Supports using shared materials or instanced
+- The time the shift takes can be edited
+
